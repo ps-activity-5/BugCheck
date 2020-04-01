@@ -7,4 +7,4 @@ solution: BugCheckSystem.sln
 script:
   - cd BugCheck
   - dotnet restore
-  - dotnet build -c Release
+  - dotnet build -c Debug
