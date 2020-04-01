@@ -1,6 +1,6 @@
 language: csharp
-
-mono: none
-dotnet: 2.1.505
-script: 
- - dotnet restore
+solution: BugCheckSystem.sln
+mono:
+  - latest
+  - 3.12.0
+  - 3.10.0
