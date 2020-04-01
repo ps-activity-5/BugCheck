@@ -2,7 +2,7 @@ dist: trusty
 sudo: required
 language: csharp
 mono: none
-dotnet: 3.0.101
+dotnet: 3.0
 solution: BugCheckSystem.sln
 script:
   - cd BugCheck
