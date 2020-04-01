@@ -1,8 +1,10 @@
-language: csharp
 dist: trusty
+sudo: required
+language: csharp
 mono: none
 dotnet: 2.1.505
-install:
-- dotnet restore
+solution: BugCheckSystem.sln
 script:
-- dotnet build
+  - cd BugCheckSystem
+  - dotnet restore
+  - dotnet build -c Release
