@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugCheckSystem", "BugCheckSystem\BugCheckSystem.csproj", "{F95F7CA6-6DAC-416E-A652-5EE26B6070DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugCheckTests", "BugCheckTests\BugCheckTests.csproj", "{9DAA540A-C4B6-4F2D-8E9F-63F9E876B01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95F7CA6-6DAC-416E-A652-5EE26B6070DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95F7CA6-6DAC-416E-A652-5EE26B6070DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95F7CA6-6DAC-416E-A652-5EE26B6070DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95F7CA6-6DAC-416E-A652-5EE26B6070DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAA540A-C4B6-4F2D-8E9F-63F9E876B01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA540A-C4B6-4F2D-8E9F-63F9E876B01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA540A-C4B6-4F2D-8E9F-63F9E876B01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA540A-C4B6-4F2D-8E9F-63F9E876B01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EA4499-6171-4726-BC50-A4F31C49A990}
+	EndGlobalSection
+EndGlobal

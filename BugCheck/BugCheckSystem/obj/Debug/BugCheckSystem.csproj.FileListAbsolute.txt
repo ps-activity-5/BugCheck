@@ -1,0 +1,7 @@
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\bin\Debug\BugCheckSystem.exe.config
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\bin\Debug\BugCheckSystem.exe
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\bin\Debug\BugCheckSystem.pdb
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\obj\Debug\BugCheckSystem.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\obj\Debug\BugCheckSystem.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\obj\Debug\BugCheckSystem.exe
+C:\Users\Andreas\source\repos\BugCheckSystem\BugCheckSystem\obj\Debug\BugCheckSystem.pdb
