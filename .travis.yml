@@ -6,4 +6,4 @@ dotnet: 2.1.505
 solution: BugCheckSystem.sln
 script:
   - cd BugCheck
-  - dotnet build
+  - dotnet build /p:TargetFrameworkVersion="v4.6.1"
