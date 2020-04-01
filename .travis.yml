@@ -2,8 +2,8 @@ dist: trusty
 sudo: required
 language: csharp
 mono: none
-dotnet: 2.1.505
+dotnet: 2.2.207
 solution: BugCheckSystem.sln
 script:
   - cd BugCheck
-  - dotnet build /p:TargetFrameworkVersion="v4.2.1"
+  - dotnet build /p:TargetFrameworkVersion="v4.6.1"
