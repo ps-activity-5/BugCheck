@@ -5,4 +5,4 @@ dotnet: 2.1.505
 script:
   - cd BugCheck
   - dotnet restore
-  - msbuild BugCheckSystem.sln
+  - dotnet build
