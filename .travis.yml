@@ -1,9 +1,8 @@
-dist: xenial 
-sudo: required
 language: csharp
+dist: trusty
 mono: none
-dotnet: 3.0
-solution: BugCheckSystem.sln
+dotnet: 2.0.0
 script:
   - cd BugCheck
-  - dotnet build /p:TargetFrameworkVersion="v4.6.1"
+  - dotnet restore
+  - dotnet build
