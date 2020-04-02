@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Change dir
-    - run: cd BugCheck
+      run: cd BugCheck
     - uses: actions/checkout@v2
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
