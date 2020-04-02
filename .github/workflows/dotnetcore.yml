@@ -20,7 +20,8 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Build
-      working-directory: BugCheck
-      run: dotnet build BugCheckSystem.sln --no-restore
+      working-directory: BugCheck/BugCheckSystem
+      run: dotnet build BugCheckSystem.csproj --no-restore
     - name: Test
+      working-directory: BugCheck/BugCheckTest
       run: dotnet test --no-restore --verbosity normal
